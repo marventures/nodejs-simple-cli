@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Juan dela Cruz",
+    "email": "juan.delacruz@example.ph",
+    "phone": "(0917) 123-4567"
+  },
+  {
+    "id": "3",
+    "name": "Jose Rizal",
+    "email": "jose.rizal@example.ph",
+    "phone": "(0919) 345-6789"
+  },
+  {
+    "id": "4",
+    "name": "Andres Bonifacio",
+    "email": "andres.bonifacio@example.ph",
+    "phone": "(0920) 456-7890"
+  },
+  {
+    "id": "5",
+    "name": "Emilio Aguinaldo",
+    "email": "emilio.aguinaldo@example.ph",
+    "phone": "(0921) 567-8901"
+  },
+  {
+    "id": "6",
+    "name": "Gabriela Silang",
+    "email": "gabriela.silang@example.ph",
+    "phone": "(0922) 678-9012"
+  },
+  {
+    "id": "7",
+    "name": "Lapu-Lapu",
+    "email": "lapu.lapu@example.ph",
+    "phone": "(0923) 789-0123"
+  },
+  {
+    "id": "8",
+    "name": "Antonio Luna",
+    "email": "antonio.luna@example.ph",
+    "phone": "(0924) 890-1234"
+  },
+  {
+    "id": "9",
+    "name": "Apolinario Mabini",
+    "email": "apolinario.mabini@example.ph",
+    "phone": "(0925) 901-2345"
+  },
+  {
+    "id": "10",
+    "name": "Melchora Aquino",
+    "email": "melchora.aquino@example.ph",
+    "phone": "(0926) 012-3456"
+  },
+  {
+    "id": "C5iDDlPcqk73DdzLj6ZHV",
+    "name": "Marvin Pacis",
+    "email": "pacismarvin11@gmail.com",
+    "phone": "0917-123-4567"
+  }
+]
